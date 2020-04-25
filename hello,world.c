@@ -3,7 +3,7 @@
 int main ()
 {
 
-    // this is the Github demo project
+    // this is demo project in Github
 	printf("Hello,world!\n");
 	printf("Hello,world!\n");
 
